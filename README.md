@@ -8,7 +8,7 @@
 - 👨‍🎓 Previous studies and experience in machine learning, engineering and architecture
 - 📫 How to reach me: 
 -- pablo.rovito@outlook.com 
--- <a href="https://www.linkedin.com/in/pablo-rovito-239b2283/">https://www.linkedin.com/in/pablo-rovito-239b2283/</a> 
+-- <a href="https://www.linkedin.com/in/pablo-rovito-fullstack-dev/">https://www.linkedin.com/in/pablo-rovito-fullstack-dev/</a> 
 
 <br/>
 
