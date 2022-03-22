@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on getting my FullStack Dev certificate on Henry
-- 🌱 I’m currently learning TypeScript and Next.JS
+- 🌱 I’m currently learning TypeScript and python
 - 💻 What I do know... JS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize. [You can confirm it here...](https://pi-videogames-main-hazel.vercel.app/)
 - 👯 I’m looking forward to working on remote Jobs for now, unless the company is located on 100Km radius around Mar del Plata, Argentina
 - 👨‍🎓 Previous studies and experience in machine learning, engineering and architecture
