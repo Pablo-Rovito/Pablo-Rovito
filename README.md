@@ -1,6 +1,4 @@
-<div style="justify-content:center">
-  <h1>🙋🏿‍♂️ Hi there! Pablo here... </h1>
-</div>
+##  🙋🏿‍♂️ Hi there! Pablo here...
 
 > 🔭 I’m currently working on getting my FullStack Dev certificate on Henry
 > 
@@ -28,9 +26,8 @@
 
 ## Here are some screenshots of my projects...
 
-<div style="justify-content:center">
 ![image](https://user-images.githubusercontent.com/91141985/160293417-6ebc8da2-bc30-43e1-81da-0ef1c42f2dff.png)
 ![image](https://user-images.githubusercontent.com/91141985/160293353-c94a5d33-d334-4df3-92f4-f3813cf1f37a.png)
 ![image](https://user-images.githubusercontent.com/91141985/160293336-315bc09b-b1f0-4e4f-a937-591fe4dc6f13.png)
 ![image](https://user-images.githubusercontent.com/91141985/160293398-4698a66c-ec36-4db6-8d0b-f874c24b7763.png)
-</div>
+
