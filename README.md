@@ -4,7 +4,7 @@
 > 
 > 🌱 I’m currently learning TypeScript and python
 > 
-> 💻 What I do know... JS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize. [You can play with it here...](https://pi-videogames-main-hazel.vercel.app/)
+> 💻 What I do know... JS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize. [Here is a little display of my abilities...](https://pi-videogames-main-hazel.vercel.app/)
 > 
 > 👯 I’m looking forward to working on remote Jobs for now, unless the company is located on 100Km radius around Mar del Plata, Argentina
 > 
