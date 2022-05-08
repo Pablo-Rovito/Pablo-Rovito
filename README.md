@@ -1,8 +1,8 @@
 ##  🙋🏿‍♂️ Hi there! Pablo here...
 
-> 🔭 I’m currently working on getting my FullStack Dev certificate on Henry
+> 🔭 I’m currently working on my portfolio, which will be done in NextJS, Typescript and Tailwind
 > 
-> 🌱 I’m currently learning TypeScript and python
+> 🌱 I’m currently learning to integrate PowerBI into a NextJS SPA
 > 
 > 💻 What I do know... JS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize. [Here is a little display of my abilities...](https://pi-videogames-main-hazel.vercel.app/) ... [Here you can see my work in a team!](https://frontend-five-gules.vercel.app/)
 > 
