@@ -2,7 +2,7 @@
 
 > 🔭 I’m currently working on my portfolio, which will be done in NextJS, Typescript and Tailwind
 > 
-> 🌱 I’m currently learning to integrate PowerBI into a NextJS SPA
+> 🌱 I’m currently learning to integrate PowerBI into a NextJS SPA. [Deploy here!](https://powerbi-next.vercel.app/) || [Due to authentication restrictions, you won't be able to see the report (probably) so this is a video!](https://www.youtube.com/watch?v=jKrNd9vDawg)
 > 
 > 💻 What I do know... JS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize. [Here is a little display of my abilities...](https://pi-videogames-main-hazel.vercel.app/) ... [Here you can see my work in a team!](https://frontend-five-gules.vercel.app/)
 > 
@@ -34,6 +34,9 @@
 ![image](https://user-images.githubusercontent.com/91141985/165199026-3a710837-91e8-46ae-a322-92eede949108.png)
 ![image](https://user-images.githubusercontent.com/91141985/165199111-791edd30-58da-45fd-b36a-54a0fdc5e9ce.png)
 ![image](https://user-images.githubusercontent.com/91141985/165199159-3b602f61-3bcb-4f03-a674-31b369ee5687.png)
+![image](https://user-images.githubusercontent.com/91141985/167699372-9a61c44f-2554-4a1b-82c8-f7ada331f39f.png)
+![image](https://user-images.githubusercontent.com/91141985/167699381-4b9e2853-a574-4064-bd58-e4004f591b2f.png)
+
 
 
 
