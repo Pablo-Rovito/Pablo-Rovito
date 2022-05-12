@@ -19,6 +19,7 @@
 
 <p align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Rovito)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 [![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=Pablo-Rovito&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
