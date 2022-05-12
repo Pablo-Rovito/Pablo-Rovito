@@ -17,11 +17,10 @@
 >> 
 >> <a href="https://www.linkedin.com/in/pablo-rovito-fullstack-dev/">https://www.linkedin.com/in/pablo-rovito-fullstack-dev/</a>
 
-<div align="center">
+<div align="center" >
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Rovito)](https://github.com/anuraghazra/github-readme-stats)
-
   [![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=Pablo-Rovito&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 
