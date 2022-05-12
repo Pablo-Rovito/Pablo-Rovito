@@ -18,7 +18,7 @@
 >> <a href="https://www.linkedin.com/in/pablo-rovito-fullstack-dev/">https://www.linkedin.com/in/pablo-rovito-fullstack-dev/</a>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Rovito">Top Languages</a>
+  <iframe href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Rovito">Top Languages</iframe>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Rovito)](https://github.com/anuraghazra/github-readme-stats)
