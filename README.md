@@ -1,10 +1,10 @@
 ##  🙋🏿‍♂️ Hi there! Pablo here...
 
-> 🔭 I’m currently working on my portfolio, which will be done in NextJS, Typescript and Tailwind
+> 🔭 [Take a look at my porfolio!](https://pablo-rovito-portfolio.vercel.app/)
 > 
-> 🌱 I’m currently learning to integrate PowerBI into a NextJS SPA. [Deploy here!](https://powerbi-next.vercel.app/) || [Due to authentication restrictions, you won't be able to see the report (probably) so this is a video!](https://www.youtube.com/watch?v=jKrNd9vDawg)
+> 🌱 I’m currently learning Typescript. I did a couple of simple projects and will be upgrading my portfolio to TS in the next weeks!
 > 
-> 💻 What I do know... JS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize. [Here is a little display of my abilities...](https://pi-videogames-main-hazel.vercel.app/) ... [Here you can see my work in a team!](https://frontend-five-gules.vercel.app/)
+> 💻 What I do know... JS | NextJS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize | Basics of Ruby and Python
 > 
 > 👯 I’m looking forward to working on remote Jobs for now, unless the company is located on 100Km radius around Mar del Plata, Argentina
 > 
@@ -27,6 +27,11 @@
 
 
 ## Here are some screenshots of my projects...
+
+
+![image](https://user-images.githubusercontent.com/91141985/168528653-329992d7-a1c5-496f-a68c-6a3b6575f081.png)
+![image](https://user-images.githubusercontent.com/91141985/168528701-bb87a634-c3bd-49bd-a1ed-25bc5f12eb8f.png)
+![image](https://user-images.githubusercontent.com/91141985/168528763-def27258-688f-4a60-b6bc-ebfb62baa193.png)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91141985/160293417-6ebc8da2-bc30-43e1-81da-0ef1c42f2dff.png"/>
