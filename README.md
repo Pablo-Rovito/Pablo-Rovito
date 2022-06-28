@@ -2,11 +2,11 @@
 
 > 🔭 [Take a look at my porfolio!](https://pablo-rovito-portfolio.vercel.app/)
 > 
-> 🌱 I’m currently learning Typescript. I did a couple of simple projects and will be upgrading my portfolio to TS in the next weeks!
+> 🌱 I’m currently learning JAVA for my job.
 > 
 > 💻 What I do know... JS | NextJS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize | Basics of Ruby and Python
 > 
-> 👯 I’m looking forward to working on remote Jobs for now, unless the company is located on 100Km radius around Mar del Plata, Argentina
+> 👯 I’m currently working at Darwoft as a Full stack engineer
 > 
 > 👨‍🎓 Previous studies in project management, machine learning, engineering and architecture
 > 
