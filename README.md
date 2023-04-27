@@ -2,11 +2,9 @@
 
 > 🔭 [Take a look at my porfolio!](https://pablo-rovito-portfolio.vercel.app/)
 > 
-> 🌱 I’m currently learning JAVA for my job.
+> 💻 What I do know... Spring | JAVA | javascript | NextJS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize | Enzyme / React Testing Library
 > 
-> 💻 What I do know... JS | NextJS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize | Basics of Ruby and Python
-> 
-> 👯 I’m currently working at Darwoft as a Full stack engineer
+> 👯 I’m currently working at Darwoft as a Full stack engineer (1 year in a project for a multinational telecom)
 > 
 > 👨‍🎓 Previous studies in project management, machine learning, engineering and architecture
 > 
