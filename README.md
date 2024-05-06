@@ -2,9 +2,9 @@
 
 > 🔭 [Take a look at my porfolio!](https://pablo-rovito-portfolio.vercel.app/)
 > 
-> 💻 What I do know... Spring | JAVA | javascript | NextJS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize | Enzyme / React Testing Library
+> 💻 What I do know... Spring | JAVA | javascript | NextJS | React | Redux | Node.JS | Express | PostgreSQL + Sequelize | Enzyme / React Testing Library | Junit + Mockito
 > 
-> 👯 I’m currently working at Darwoft as a Full stack engineer (1 year in a project for a multinational telecom)
+> 👯 I’m currently working at BBVA as a Backend dev (Spring + Java)
 > 
 > 👨‍🎓 Previous studies in project management, machine learning, engineering and architecture
 > 
